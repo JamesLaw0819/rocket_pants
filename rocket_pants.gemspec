@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = ">= 1.3.6"
 
   s.add_dependency 'actionpack', '>= 3.0', '< 5.0'
-  s.add_dependency 'railties',   '>= 3.0', '< 5.0'
+  s.add_dependency 'railties',   '>= 3.0', '< 6.0'
   s.add_dependency 'will_paginate', '~> 3.0'
   s.add_dependency 'hashie',        '>= 1.0', '< 3'
   s.add_dependency 'api_smith'
